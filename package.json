@@ -1,0 +1,23 @@
+{
+  "name": "pw-ts-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ydeepk/pw-ts-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ydeepk/pw-ts-challenges/issues"
+  },
+  "homepage": "https://github.com/ydeepk/pw-ts-challenges#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.2"
+  }
+}
